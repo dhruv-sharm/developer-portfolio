@@ -19,7 +19,6 @@ export const socialLinks = {
 	facebook: "https://www.facebook.com/dhruv.sharmx",
 	instagram: "https://www.instagram.com/dhruvv095",
 	twitter: "https://twitter.com/dhruv_sharmx",
-	github: "https://github.com/dhruv-sharm",
 	linkedin: "https://www.linkedin.com/in/dhruv-sharma170",
 };
 
