@@ -143,7 +143,7 @@ export const educationInfo = [
 	{
 		schoolName: "Govt. Polytechnic ",
 		subHeader: "3 Years Diploma in Computer Science",
-		duration: "September 2019 - April 2012",
+		duration: "September 2019 - April 2022",
 		desc: "Learned some Skill to write code in :",
 		grade: "8.7 CGPA",
 		descBullets: [
@@ -166,11 +166,16 @@ export const experience = [
 
 export const projects = [
 	// {
+	
 	// 	name: "developer-portfolio",
 	// 	desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
 	// 	github: "https://github.com/1hanzla100/developer-portfolio",
 	// 	link: "https://developer-portfolio-1hanzla100.vercel.app/",
 	// },
+	{
+		name : "Working on it..",
+		desc: "error",
+	}
 ];
 
 export const feedbacks = [
