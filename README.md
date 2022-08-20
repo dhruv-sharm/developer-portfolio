@@ -38,12 +38,7 @@ git@2.17.1 or higher
 From your command line, clone and run developer-portolio:
 
 
-## Linking Portfolio to Github
 
-```javascript
-  //  portfolio.js
-  githubUserName: 'YOUR GITHUB USERNAME HERE',
-```
 
 #### Using Emojis
 
@@ -69,7 +64,7 @@ Iconify Icons are used in skill section. You can find all the icons here: [Iconi
 
 ## Author
 
-👤 **Hanzla Tauqeer**
+👤 **Dhruv Sharma**
 
 -   Website: https://dhruvsharma.netlify.app/
 -   Github: [@dhruv-sharm](https://github.com/dhruv-sharm)
