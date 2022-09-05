@@ -158,7 +158,7 @@ export const experience = [
 	{
 		role:"Full Stack Developer-(MERN)",
 		companylogo: "/img/icons/common/fullstack-logo.png",
-		desc: "I worked as Full Stack web developer to design web based admin dashboards for mulitple apps and backends using  Bootstrap, jQuery, React.js, Node, Express and some other libraries & framework, created REST APIs using scratch,  deployed it on Heroku server .",
+		desc: "I worked as Full Stack web developer to design web based admin dashboards for mulitple apps and create Fully responsive website using  Bootstrap/Tailwind, jQuery, React.js, Node, Express and some other libraries & framework, created REST APIs using scratch,  deployed it on Heroku server or other server's.",
 		
 	},
 ];
