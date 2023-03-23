@@ -18,7 +18,7 @@ export const contact = {};
 export const socialLinks = {
 	facebook: "https://www.facebook.com/dhruv.sharmx",
 	instagram: "https://www.instagram.com/dhruvv095",
-	twitter: "https://twitter.com/dhruv_sharmx",
+	twitter: "https://twitter.com/dhruvv095",
 	linkedin: "https://www.linkedin.com/in/dhruv-sharma170",
 };
 
