@@ -140,14 +140,26 @@ export const SkillBars = [
 
 export const educationInfo = [
 	{
-		schoolName: "Govt. Polytechnic ",
+		schoolName: "Govt. AKIT, Uttarakhand ",
+		subHeader: "B.Tech Degree in Computer Science",
+		duration: "September 2022 - June 2025",
+		desc: "Currently focusing on Learning  :",
+		descBullets: [
+			"ready  to take INTERSHIP",
+			"learning tech like AI etc",
+			"enjoying college life",
+			
+		],
+	},
+{
+schoolName: "Govt. Polytechnic ",
 		subHeader: "3 Years Diploma in Computer Science",
-		duration: "September 2019 - April 2022",
+		duration: "July 2019 - June 2022",
 		desc: "Learned some Skill to write code in :",
 		grade: "8.7 CGPA",
 		descBullets: [
 			"C & C++ ",
-			"Web Development",
+			"Full Stack Web Development",
 			"Software Development & Debugging",
 			
 		],
