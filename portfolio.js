@@ -140,7 +140,7 @@ export const SkillBars = [
 
 export const educationInfo = [
 	{
-		schoolName: "Govt. AKIT, Uttarakhand ",
+		schoolName: "Govt. B.Tech College, Uttarakhand ",
 		subHeader: "B.Tech Degree in Computer Science",
 		duration: "September 2022 - June 2025",
 		desc: "Currently focusing on Learning  :",
